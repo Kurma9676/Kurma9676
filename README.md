@@ -48,6 +48,6 @@
 
 ### 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) *(replace with your real link)*
-- 🌐 [Portfolio Website](https://yourwebsite.com) *(if available)*
+- 💼 [LinkedIn]([https://www.linkedin.com/in/surni-kurma-rao-b8318b241/]) 
+- 🌐 [Portfolio Website]([https://kurma9676.github.io/kurmaraosurni-portfolio/]) 
 
